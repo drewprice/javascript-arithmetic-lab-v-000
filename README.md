@@ -1,4 +1,4 @@
-JavaScript Arithmetic Lab
+git clone git@github.com:learn-co-curriculum/js-looping-and-iteration-looping-code-along.gitJavaScript Arithmetic Lab
 ---
 
 ## Objectives
